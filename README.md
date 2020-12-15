@@ -22,4 +22,4 @@ An alert ask new comers if they allow me to :
 * Store their IP address for more navigation tracking accuracy.
 
 *\* Cookies management seemed quite harshy with Firebase Functions
-external domain, so I opted-in for `localStorage`.
+external domain, so I opted-in for `localStorage`.*
