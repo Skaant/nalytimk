@@ -1,0 +1,26 @@
+{
+  "name": "nalytimk",
+  "version": "1.0.0",
+  "description": "Serverless analytics API for my websites network",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Skaant/nalytimk.git"
+  },
+  "keywords": [
+    "analytics",
+    "firebase",
+    "serverless",
+    "API",
+    "GDPR"
+  ],
+  "author": "rimarok.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skaant/nalytimk/issues"
+  },
+  "homepage": "https://github.com/Skaant/nalytimk#readme"
+}
