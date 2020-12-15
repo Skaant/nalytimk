@@ -1,7 +1,7 @@
 {
   "name": "nalytimk",
   "version": "1.0.0",
-  "description": "Serverless analytics API for my websites network",
+  "description": "Serverless analytics API (Firebase Functions) for my websites network",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
